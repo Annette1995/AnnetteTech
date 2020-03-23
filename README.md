@@ -1,6 +1,6 @@
 # annette_project
 
-This project is a simple JWeb Application. It portray's Annete Tech Course Offerings page and give details about individual courses that are offered. 
+This project is a simple Django Web Application. It portray's Annete Tech Course Offerings page and give details about individual courses that are offered. 
 
 Also includes a search api for searching specific course contents. 
 
